@@ -1,0 +1,15 @@
+{
+    "display": "browser",
+    "scope": "/",
+    "start_url": "/zyk",
+    "name": "zykson",
+    "description": "A blog website",
+    "short_name": "zyk",
+    "icons": [
+        {
+            "src": "/images/me.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
